@@ -5,7 +5,7 @@ This repository is built up by different git submodules to separate the differen
 such as dotfiles and the vim folder.
 
 # Installation
-Each subfolder and submodule contains its own installation.py script, which properly install
+Each subfolder and submodule contains its own install.py script, which properly install
 the files on the system. This will ensure that old files are backed up as well, if anything would go wrong.
 
 # TODO

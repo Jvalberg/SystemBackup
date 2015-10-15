@@ -4,3 +4,6 @@
 [submodule "utilities"]
 	path = utilities
 	url = git@github.com:JValberg/utilities
+[submodule "VimBackup"]
+	path = VimBackup
+	url = git@github.com:JValberg/VimBackup.git

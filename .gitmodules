@@ -4,6 +4,3 @@
 [submodule "utilities"]
 	path = utilities
 	url = git@github.com:JValberg/utilities
-[submodule "vim"]
-	path = vim
-	url = git@github.com:JValberg/vim.git

@@ -1,0 +1,7 @@
+Hotkeys (7 +- 2):
+
+Ctrl-<h,j,k,l>		- Change window
+Leader-s<h,j,k,l>	- Split window
+Ctrl-v				- Expand snippet (next in snippet)
+Leader-t			- Open buffer with ctrlp
+Leader-r			- Open recent file with ctrlp
